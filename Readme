@@ -1,0 +1,3 @@
+A docker image with rancher cli and docker binary.
+
+This allow you to run `rancher exec <stack>/<service>`
